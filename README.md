@@ -1,11 +1,22 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kim%20Min-Jeong&fontColor=FFFFFF&fontSize=60&fontAlignY=40" />
 
-
 <div style="display: flex; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=yeongchul&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeongchul&layout=compact" />
 </div>
 
+<br>
+
+## 🎓 Education
+**수원대학교 정보보호학과**
+<br>
+2020.03 ~ 2025.02
+
+<br>
+
+**한국경제신문 with Toss Bank K-디지털 트레이닝 Tech 우수인재를 위한 풀스택 과정 수료**
+<br>
+2025.01 ~ 2025.07
 
 <br>
 
@@ -36,8 +47,6 @@
 
 ## Portfolio
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://buttoned-koi-7f3.notion.site/1706d250dedc8070aa78d923be0fbc8f?source=copy_link)
-
-<br>
 
 ## Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gim208815@gmail.com)
