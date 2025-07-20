@@ -34,8 +34,13 @@
 
 <br>
 
+## Portfolio
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://buttoned-koi-7f3.notion.site/1706d250dedc8070aa78d923be0fbc8f?source=copy_link)
+
+<br>
+
 ## Contact Me
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gim208815@gmail.com)](mailto:gim208815@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gim208815@gmail.com)
 
 <!--<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yeongchul&utm_content=farm">
 <img
